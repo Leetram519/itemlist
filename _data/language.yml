@@ -1,50 +1,50 @@
 # Tabs
-items_tab: 'Items'
-events_tab: 'Events'
+items_tab: 'Objets'
+events_tab: 'Evenements'
 traits_tab: 'Traits'
-animals_tab: 'Animals'
-weapons_tab: 'Weapons'
-pawn_kinds_tab: 'Pawn Kinds'
+animals_tab: 'Animaux'
+weapons_tab: 'Armes'
+pawn_kinds_tab: 'Type de colon'
 
 # Table headers
-mod_name_header: Mod Name
-author_header: Author
+mod_name_header: Nom du mod
+author_header: Auteur
 version_header: Version
-command_name_header: Command Name
-user_level_header: User Level
+command_name_header: Nom de la commande
+user_level_header: Niveau d'utilisateur
 description_header: Description
-cost_header: Cost
-category_header: Category
-karma_type_header: Karma Type
-add_cost_header: Add Cost
-remove_cost_header: Remove Cost
-name_header: Name
+cost_header: Prix
+category_header: Catégorie
+karma_type_header: Type de Karma
+add_cost_header: Ajouter coût
+remove_cost_header: Enlever coût
+name_header: Nom
 
 # Error messages
-no_commands: 'These are not the commands you are looking for.'
+no_commands: 'Il n'y a pas de commande de ce nom.'
 
 # Redirect messages
-see_traits: 'See prices in the traits section'
-see_kinds: 'See prices in the pawn kinds section'
-see_items: 'See prices in the items section'
+see_traits: 'Vois les prix de la page Traits.'
+see_kinds: 'Vois les prix de la page Type de colon'
+see_items: 'Vois les prix de la page Objets'
 
 # Search texts
-search_items: 'Search for items...'
-search_traits: 'Search for traits...'
-search_pawn_kinds: 'Search for pawn kinds...'
-search_mods: 'Search for mods...'
-search_commands: 'Search for commands...'
-search_animals: 'Search for animals...'
-search_events: 'Search for events...'
-search_weapons: 'Search for weapons...'
+search_items: 'Recherche des Objets...'
+search_traits: 'Recherche des Traits...'
+search_pawn_kinds: 'Recherche des Types de Colon...'
+search_mods: 'Recherche des mods...'
+search_commands: 'Recherche des commandes...'
+search_animals: 'Recherche des animaux...'
+search_events: 'Recherche des évènements...'
+search_weapons: 'Recherche des armes...'
 
 # Metadata
-usage: 'Usage: %s'
-shortcut: 'This is a shortcut for %s'
-stats: 'Stats'
-conflicts_with: 'Conflicts with'
-from: 'From %s'
-weight: 'Weight'
-limit: 'Limit'
+usage: 'Utilisation: %s'
+shortcut: 'Ceci est un raccourci pour %s'
+stats: 'Statistiques'
+conflicts_with: 'En conflit avec'
+from: 'De %s'
+weight: 'Poids'
+limit: 'Limite'
 karma: 'Karma'
-bypasses_limit: 'This trait may exceed the trait limit'
+bypasses_limit: 'Ce trait est peut-être de trop'
